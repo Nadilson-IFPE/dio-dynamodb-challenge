@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Gojira"},
+                  "SongTitle": {"S": "Dawn"},
+                  "AlbumTitle": {"S": "The Link"},
+                  "SongYear": {"S": "2003"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Gojira"},
+                  "SongTitle": {"S": "Where Dragons Dwell"},
+                  "AlbumTitle": {"S": "From Mars to Sirius"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "L7"},
+                  "SongTitle": {"S": "Shitlist"},
+                  "AlbumTitle": {"S": "Bricks Are Heavy"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        }
+      ]
+}
