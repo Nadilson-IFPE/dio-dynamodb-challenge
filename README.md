@@ -8,7 +8,7 @@
 
 <p style="color:red;">Concluído.</p>
 <p>A estrutura deste README e deste projeto segue o modelo original do instrutor:</p>
-<a>https://github.com/cassianobrexbit/dio-live-dynamodb/blob/master/README.md</a>
+<a href="https://github.com/cassianobrexbit/dio-live-dynamodb/blob/master/README.md">https://github.com/cassianobrexbit/dio-live-dynamodb/blob/master/README.md</a>
 
 
 ## Informações gerais sobre o projeto
